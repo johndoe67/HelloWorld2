@@ -1,18 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
-  <DefaultLanguage xmlns="" code="en-US"/>
-  <App xmlns="" ProductID="{9f744a80-2e8c-4981-b09d-bc643736c43c}" Title="HelloWorld2" RuntimeType="Silverlight" Version="21.20.2.17" Genre="apps.normal"  Author="HelloWorld2 author" Description="Sample description" Publisher="HelloWorld2" PublisherID="{c34d38aa-8452-4512-9877-07f2a085dd63}">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <App xmlns="" ProductID="{9f744a80-2e8c-4981-b09d-bc643736c43c}" Title="HelloWorld2" RuntimeType="Silverlight" Version="21.20.2.17" Genre="apps.normal" Author="HelloWorld2 author" Description="Sample description" Publisher="HelloWorld2" PublisherID="{c34d38aa-8452-4512-9877-07f2a085dd63}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
-      <Capability Name="ID_CAP_NETWORKING"/>
-      <Capability Name="ID_CAP_MEDIALIB_AUDIO"/>
-      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK"/>
-      <Capability Name="ID_CAP_SENSORS"/>
-      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT"/>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
     </Capabilities>
     <Tasks>
-      <DefaultTask  Name ="_default" NavigationPage="MainPage.xaml"/>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
     </Tasks>
     <Tokens>
       <PrimaryToken TokenID="HelloWorld2Token" TaskName="_default">
@@ -30,9 +29,10 @@
       </PrimaryToken>
     </Tokens>
     <ScreenResolutions>
-      <ScreenResolution Name="ID_RESOLUTION_WVGA"/>
-      <ScreenResolution Name="ID_RESOLUTION_WXGA"/>
-      <ScreenResolution Name="ID_RESOLUTION_HD720P"/>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
     </ScreenResolutions>
   </App>
 </Deployment>
+<!-- WPSDK Version 8.0.9900 -->

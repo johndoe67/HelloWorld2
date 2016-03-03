@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Temp\git\HelloWorld2\HelloWorld2\Bin\ARM\Release\HelloWorld2_Release_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="3/3/2016 9:31:54 AM">
+  <file source="C:\Temp\git\HelloWorld2\HelloWorld2\obj\ARM\Release\HelloWorld2.dll" archivePath="HelloWorld2.dll" lastWriteTime="3/3/2016 9:31:53 AM" />
+  <file source="C:\Temp\git\HelloWorld2\HelloWorld2\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2/15/2016 8:03:46 AM" />
+  <file source="C:\Temp\git\HelloWorld2\HelloWorld2\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2/15/2016 8:03:46 AM" />
+  <file source="C:\Temp\git\HelloWorld2\HelloWorld2\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2/15/2016 8:03:46 AM" />
+  <file source="C:\Temp\git\HelloWorld2\HelloWorld2\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2/15/2016 8:03:46 AM" />
+  <file source="C:\Temp\git\HelloWorld2\HelloWorld2\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2/15/2016 8:03:46 AM" />
+  <file source="C:\Temp\git\HelloWorld2\HelloWorld2\Bin\ARM\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="3/3/2016 9:31:54 AM" />
+  <file source="C:\Temp\git\HelloWorld2\HelloWorld2\Bin\ARM\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2/15/2016 8:03:46 AM" />
+  <file source="C:\Temp\git\HelloWorld2\HelloWorld2\Bin\ARM\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2/15/2016 8:03:46 AM" />
+  <file source="C:\Temp\git\HelloWorld2\HelloWorld2\Bin\ARM\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="3/3/2016 9:31:54 AM" />
+</xapCache>
